@@ -1,2 +1,2 @@
 # infinite_pokemon
-little test project for openai c#/.NET SDK
+I found an openai [C#/.NET SDK](https://github.com/OkGoDoIt/OpenAI-API-dotnet/tree/master) and wanted to make a little project to test it out.
